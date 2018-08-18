@@ -1,7 +1,7 @@
 ﻿using System;
 using Xunit;
 
-namespace NetCoreUnitTesting {
+namespace UnitTesting {
 
     public class Class1 {
         [Fact]
